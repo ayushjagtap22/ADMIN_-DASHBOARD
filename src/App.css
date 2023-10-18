@@ -200,6 +200,18 @@ body {
 /* End Main  */
 
 
+/* Product */
+.productDetails{
+  font-family: Arial, sans-serif;
+  max-width: auto;
+  margin: 0 auto;
+  background-color: white;
+  color: black;
+}
+/* End Product */
+
+
+
 /* Medium <= 992px */
   
 @media screen and (max-width: 992px) {
